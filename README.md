@@ -33,3 +33,7 @@ This project demonstrates advanced SQL analytics techniques used to analyze busi
 ### Dimension Tables
 - `gold.dim_customers`
 - `gold.dim_products`
+
+### Product Report Query Results Screen Shots are as Following:
+
+![Result](query_result_screenshots/product_report_base_query_result.png)
