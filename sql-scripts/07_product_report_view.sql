@@ -31,11 +31,7 @@ GROUP BY p.product_name,p.category,p.subcategory,
 DATEDIFF(month, p.start_date, GETDATE()))
 
 
-/*
-Query Output Screenshot:
-https://raw.githubusercontent.com/mdobidmallick/advance_sql_data_analysis/main/query_result_screenshots/product_report_base_query_result.png
-*/
-
+-- you can see above query result in readme section names as "product_report_base_query_result"
 
 -- step2: building the final logic for view
 
@@ -52,4 +48,6 @@ SELECT
 FROM base_query;
 
 SELECT * FROM gold.product_report; -- yaaayy view has been created and its working fine
+
+-- you can see this view result's screenshot in readme file named as "product_report_final_query_result"
 	
