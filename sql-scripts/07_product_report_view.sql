@@ -30,7 +30,9 @@ ON s.product_key = p.product_key
 GROUP BY p.product_name,p.category,p.subcategory, 
 DATEDIFF(month, p.start_date, GETDATE()))
 
-https://github.com/mdobidmallick/advance_sql_data_analysis/blob/main/query_result_screenshots/product_report_base_query_result.png
+## Product Report — Base Query Output
+
+![Product Report Result](https://raw.githubusercontent.com/mdobidmallick/advance_sql_data_analysis/main/query_result_screenshots/product_report_base_query_result.png)
 
 -- step2: building the final logic for view
 
