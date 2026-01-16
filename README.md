@@ -36,4 +36,6 @@ This project demonstrates advanced SQL analytics techniques used to analyze busi
 
 ### Product Report Query Results Screen Shots are as Following:
 
+-- base query's result:
+
 ![Result](query_result_screenshots/product_report_base_query_result.png)
