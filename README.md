@@ -42,4 +42,4 @@ This project demonstrates advanced SQL analytics techniques used to analyze busi
 
 -- final query's result:
 
-![Result](advance_sql_data_analysis/blob/main/query_result_screenshots/product_report_final_query_result.png)
+![Result](query_result_screenshots/product_report_final_query_result.png)
