@@ -33,12 +33,3 @@ This project demonstrates advanced SQL analytics techniques used to analyze busi
 ### Dimension Tables
 - `gold.dim_customers`
 - `gold.dim_products`
-
----
-
-## Analysis Modules
-
-### 1. Time Series & Trend Analysis
-- Yearly revenue analysis  
-- Monthly sales trends  
-- Business lifespan calculation  
