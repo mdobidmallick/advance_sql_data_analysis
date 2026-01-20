@@ -10,7 +10,7 @@ This project demonstrates advanced SQL analytics techniques used to analyze busi
 - Calculated cumulative metrics and moving averages  
 - Measured product and business performance  
 - Performed customer and product segmentation  
-- Built reusable reporting views  
+- Built reusable reporting views (Product & Customer)
 - Generated business-ready KPIs  
 
 ---
